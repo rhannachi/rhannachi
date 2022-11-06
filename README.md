@@ -1,19 +1,16 @@
 Hello 🙂✌️ 
 
-👉 TypeScript | JavaScript 👈
+👉 Developer TypeScript | JavaScript 👈
 
 🛠 Stack Technique:
-- ✓ React/Next, Redux/Saga | Immutable store
-- ✓ Storybook, Styled-Comp, Flex-Layout, HTML, CSS, SCSS 
-- ✓ NodeJs, Express, RabbitMQ, Redis, Sequelize | DDD Architecture
+- ✓ React, NextJs, Redux Saga, Immutable store
+- ✓ Storybook, Styled-Comp, tailwindcss, Flex-Layout 
+- ✓ NodeJs, Express, RabbitMQ, Redis
 - ✓ GraphQl (Apollo)
-- ✓ PostgreSQL, Mongodb
-- ✓ Cypress, React Testing Library, Jest, Mocha/Chai
+- ✓ PostgreSQL, Mongodb, Sequelize
+- ✓ Cypress, React Testing Library, Jest, Mocha, Chai
 
 ⚙️ DevOps:
-✓ Gitlab CI/CD, GitFlow, Docker, AWS
+✓ Gitlab CI/CD, GitFlow, GitHub Actions, Docker, AWS
 
 📍 Paris, France
-
-A très vite.
-Ramzi
